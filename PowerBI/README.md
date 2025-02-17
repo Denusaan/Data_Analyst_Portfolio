@@ -49,3 +49,18 @@ Identified bottlenecks in the supply chain to enhance efficiency.
 
 
 This project helped strengthen my ability to analyze supply chain data and build insightful dashboards using Power BI. It improved my understanding of logistics, inventory tracking, and supplier performance metrics, making data-driven decision-making easier.
+
+
+
+DASHBOARD:
+
+
+![customer_churn](https://github.com/user-attachments/assets/d5a716fa-fc3a-4b24-80e0-6a6a6b392b59)
+
+
+![customer_churn2](https://github.com/user-attachments/assets/9aa4f68e-d161-4963-be12-5a2e0c92154d)
+
+
+![customer_churn3](https://github.com/user-attachments/assets/f075afca-4e20-458f-b888-fd9c3bd52ddf)
+
+
