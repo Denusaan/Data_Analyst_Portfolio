@@ -1,4 +1,6 @@
 SUPPLY CHAIN DASHBOARD (POWER BI PROJECT)
+
+
 Description
 This project focuses on analyzing supply chain data using Power BI to track inventory, shipments, and supplier performance. The dashboard provides key insights into order fulfillment, stock levels, and logistics efficiency, helping businesses optimize their supply chain operations.
 
