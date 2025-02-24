@@ -1,4 +1,4 @@
-The visuals that are not visible in youtube data analysis file are given below:
+The visuals that are not visible in youtube data analysis noteboook file are given below:
 
 EMOJI ANALYSIS: 
 ![image](https://github.com/user-attachments/assets/b3527fea-901b-4555-986a-b5c2d1797442)
